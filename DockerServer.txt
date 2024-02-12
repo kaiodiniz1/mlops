@@ -1,5 +1,5 @@
 FROM python:3.7
-LABEL maintainer="elthon@alumni.usp.br"
+LABEL maintainer="kaio"
 LABEL version="1.0"
 
 # Instala aplicações básicas para caso precise vasculhar um contêiner da imagem
